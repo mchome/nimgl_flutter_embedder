@@ -1,2 +1,2 @@
 # nimgl_flutter_embedder
-playing flutter embedder in nim with nimgl for run :>
+nim c -r -f -d:release --app:gui flutter_embedder.nim
